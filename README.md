@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Esinmal
 - 👀 I’m interested in .Learning new technologies..
-- 🌱 I’m currently learning Comptia Security plus and machine learning...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently exploring Tableau
 - 📫 How to reach me malvikasingh2023@gmail.com..
 
 <!---
